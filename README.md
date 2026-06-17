@@ -5,7 +5,7 @@
 AI & Full-Stack Developer | Final Year B.Tech AI & DS  
 Building Real-World AI Applications 🤖  
 MERN Stack | Python | TensorFlow | Flask  
-AI & Data Science @ Nandha Engineering College  
+AI&DataScience @Nandha Engineering College  
 Open to Opportunities 🚀
 
 </div>
