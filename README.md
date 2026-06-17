@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naresh%20B%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Final%20Year%20B.Tech%20AI%20%26%20DS&descAlignY=52&descSize=16" width="100%"/>
+# Naresh B A
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDBFF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Applications+%F0%9F%A4%96;MERN+Stack+%7C+Python+%7C+TensorFlow+%7C+Flask;AI+%26+Data+Science+%40+Nandha+Engineering;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+AI & Full-Stack Developer | Final Year B.Tech AI & DS  
+Building Real-World AI Applications 🤖  
+MERN Stack | Python | TensorFlow | Flask  
+AI & Data Science @ Nandha Engineering College  
+Open to Opportunities 🚀
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```python
 naresh = {
@@ -17,7 +21,7 @@ naresh = {
     "college": "Nandha Engineering College, Erode (B.Tech AI & DS)",
     "currently": "Final Year Student | Building AI-powered Web Apps",
     "internship": "ShenAi Private Solutions — Real-time Speech-to-Text (2024)",
-    "achievement": "🥉 3rd Place — Innovation Day 2025 (Speech-to-Text App)",
+    "achievement": "3rd Place — Innovation Day 2025 (Speech-to-Text App)",
     "interests": ["AI/ML", "Full-Stack (MERN)", "Data Engineering", "Linux"],
     "contact": "nareshjhiv8@gmail.com"
 }
@@ -60,7 +64,7 @@ naresh = {
 
 ## 🚀 Featured Projects
 
-### 🎙️ Speech-to-Text Web Application
+### 🎸 Speech-to-Text Web Application
 > **Flask · WebSpeech API · Python**
 
 Real-time speech recognition web app with optimized backend response times for live audio processing. Awarded **3rd Place at Innovation Day 2025**.
@@ -75,7 +79,7 @@ Real-time speech recognition web app with optimized backend response times for l
 Full-stack role-based timetable allocation system for colleges with:
 - 🔐 JWT authentication for Admin, Manager, Staff & Student roles
 - 🤖 AI-based constraint optimization for conflict-free scheduling
-- 📝 Automated PDF export of finalized timetables
+- 📄 Automated PDF export of finalized timetables
 - ⚖️ Workload balancing & staff preference handling
 
 [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/naresh4687)
@@ -98,12 +102,12 @@ Full-stack role-based timetable allocation system for colleges with:
 |---|---|
 | 🥉 Innovation Day 2025 | 3rd Place — Speech-to-Text Web Application |
 | 📊 Power BI Workshop | Data Analysis with Power BI — Feb 2025 |
-| 🐍 Coursera | Python for Machine Learning |
+| 📚 Coursera | Python for Machine Learning |
 | 🤖 Google | AI Prompt Engineering Essentials |
 
 ---
 
-## 📋 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -116,14 +120,6 @@ Full-stack role-based timetable allocation system for colleges with:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=naresh4687&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/naresh4687/naresh4687/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -142,5 +138,3 @@ Full-stack role-based timetable allocation system for colleges with:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=naresh4687&color=7FDBFF&style=for-the-badge&label=Profile+Views" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
