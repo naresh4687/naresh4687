@@ -1,12 +1,8 @@
 <div align="center">
 
-# Naresh B A
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Naresh%20B%20A&animation=twinkling"/>
 
-AI & Full-Stack Developer | Final Year B.Tech AI & DS  
-Building Real-World AI Applications 🤖  
-MERN Stack | Python | TensorFlow | Flask  
-AI&DataScience @Nandha Engineering College  
-Open to Opportunities 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDBFF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Applications+%F0%9F%A4%96;MERN+Stack+%7C+Python+%7C+TensorFlow+%7C+Flask;AI+%26+Data+Science+%40+Nandha+Engineering;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,7 +60,7 @@ naresh = {
 
 ## 🚀 Featured Projects
 
-### 🎸 Speech-to-Text Web Application
+### 🎙️ Speech-to-Text Web Application
 > **Flask · WebSpeech API · Python**
 
 Real-time speech recognition web app with optimized backend response times for live audio processing. Awarded **3rd Place at Innovation Day 2025**.
@@ -102,7 +98,7 @@ Full-stack role-based timetable allocation system for colleges with:
 |---|---|
 | 🥉 Innovation Day 2025 | 3rd Place — Speech-to-Text Web Application |
 | 📊 Power BI Workshop | Data Analysis with Power BI — Feb 2025 |
-| 📚 Coursera | Python for Machine Learning |
+| 🐍 Coursera | Python for Machine Learning |
 | 🤖 Google | AI Prompt Engineering Essentials |
 
 ---
