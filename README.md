@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Naresh%20B%20A&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDBFF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Applications+%F0%9F%A4%96;MERN+Stack+%7C+Python+%7C+TensorFlow+%7C+Flask;AI+%26+Data+Science+%40+Nandha+Engineering;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDBFF&center=true&vCenter=true&width=1000&lines=Building+Real-World+AI+Applications+%F0%9F%A4%96;MERN+Stack+%7C+Python+%7C+TensorFlow+%7C+Flask;AI+%26+Data+Science+%40+Nandha+Engineering+College;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
